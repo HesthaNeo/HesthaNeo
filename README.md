@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tuner919/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/tuner919/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/tuner919/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/HesthaNeo/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/HesthaNeo/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/HesthaNeo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tuner919/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tuner919/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/HesthaNeo/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/HesthaNeo/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
