@@ -4,7 +4,7 @@
 
   <h3><em>osTicket (Help Desk Ticketing System)</em></h3>
     <ul>
-      <li><a href="(https://github.com/HesthaNeo/osticket-prereqs)">osTicket: Prerequisites and Installation</li>
+      <li><a href="https://github.com/HesthaNeo/osticket-prereqs">osTicket: Prerequisites and Installation</li>
       <li>osTicket: Post-Installation Configuration](https://github.com/HesthaNeo/post-install-config)</li>
       <li>osTicket: Ticket Lifecycle Examples](https://github.com/HesthaNeo/ticket-lifecycle)</li>
     </ul>
