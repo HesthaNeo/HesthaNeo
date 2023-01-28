@@ -4,13 +4,13 @@
 
   <h3><em>osTicket (Help Desk Ticketing System)</em></h3>
     <ul>
-      <li>[osTicket: Prerequisites and Installation](https://github.com/HesthaNeo/osticket-prereqs)</li>
-      <li>[osTicket: Post-Installation Configuration](https://github.com/HesthaNeo/post-install-config)</li>
-      <li>[osTicket: Ticket Lifecycle Examples](https://github.com/HesthaNeo/ticket-lifecycle)</li>
+      <li><a href="(https://github.com/HesthaNeo/osticket-prereqs)">osTicket: Prerequisites and Installation</li>
+      <li>osTicket: Post-Installation Configuration](https://github.com/HesthaNeo/post-install-config)</li>
+      <li>osTicket: Ticket Lifecycle Examples](https://github.com/HesthaNeo/ticket-lifecycle)</li>
     </ul>
   <h3><em>Microsoft Azure</em></h3>
       <ul>
-        <li>[Configuring On-premises Active Directory within Azure VMs](https://github.com/HesthaNeo/configure-ad)</li>
+        <li>Configuring On-premises Active Directory within Azure VMs](https://github.com/HesthaNeo/configure-ad)</li>
       </ul>
     
 
