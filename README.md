@@ -10,7 +10,7 @@
     </ul>
   <h3><em>Microsoft Azure</em></h3>
       <ul>
-        <li><a hre="https://github.com/HesthaNeo/configure-ad">Configuring On-premises Active Directory within Azure VMs</li>
+        <li><a href="https://github.com/HesthaNeo/configure-ad">Configuring On-premises Active Directory within Azure VMs</li>
       </ul>
     
 
