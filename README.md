@@ -11,6 +11,7 @@
   <h3><em>- Microsoft Azure</em></h3>
       <ul>
         <li><a href="https://github.com/HesthaNeo/configure-ad">Configuring On-premises Active Directory within Azure VMs</li>
+        <li><a href="https://github.com/HesthaNeo/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</li>
       </ul>
     
 
