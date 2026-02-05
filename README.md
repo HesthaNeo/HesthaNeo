@@ -6,19 +6,19 @@
     <ul>
       <li><a href="https://github.com/HesthaNeo/project-kickoff">Milestone 1: Project Kick:Off</li>
 
-  <h2><u>Information Technology Projects:</u></h2>
+<h2><u>Information Technology Projects:</u></h2>
 
-  <h3><em>- osTicket (Help Desk Ticketing System)</em></h3>
+<h3><em>- osTicket (Help Desk Ticketing System)</em></h3>
+<ul>
+    <li><a href="https://github.com/HesthaNeo/osticket-prereqs">osTicket: Prerequisites and Installation</li>
+    <li><a href="https://github.com/HesthaNeo/post-install-config">osTicket: Post-Installation Configuration</li>
+    <li><a href="https://github.com/HesthaNeo/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</li>
+</ul>
+<h3><em>- Microsoft Azure</em></h3>
     <ul>
-      <li><a href="https://github.com/HesthaNeo/osticket-prereqs">osTicket: Prerequisites and Installation</li>
-      <li><a href="https://github.com/HesthaNeo/post-install-config">osTicket: Post-Installation Configuration</li>
-      <li><a href="https://github.com/HesthaNeo/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</li>
+    <li><a href="https://github.com/HesthaNeo/configure-ad">Configuring On-premises Active Directory within Azure VMs</li>
+    <li><a href="https://github.com/HesthaNeo/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</li>
     </ul>
-  <h3><em>- Microsoft Azure</em></h3>
-      <ul>
-        <li><a href="https://github.com/HesthaNeo/configure-ad">Configuring On-premises Active Directory within Azure VMs</li>
-        <li><a href="https://github.com/HesthaNeo/azure-network-protocols">Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</li>
-      </ul>
     
 
 
