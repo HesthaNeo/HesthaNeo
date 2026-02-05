@@ -3,6 +3,8 @@
 <h2><u>Network Engineering Projects:</u></h2>
 
 <h3><em>- Full Stack Networking Project</em></h3>
+    <ul>
+      <li><a href="https://github.com/HesthaNeo/project-kickoff">Milestone 1: Project Kick:Off</li>
 
   <h2><u>Information Technology Projects:</u></h2>
 
