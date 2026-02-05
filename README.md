@@ -1,8 +1,8 @@
 <h1>Robert's Porfolio <a href="https://linkedin.com/in/robertbrantley22">(IT Professional)</h1>
 
-    <h2><u>Network Engineering Projects:</u></h2>
+<h2><u>Network Engineering Projects:</u></h2>
 
-    <h3><em>- Full Stack Networking Project</em></h3>
+<h3><em>- Full Stack Networking Project</em></h3>
     <ul>
     <li><a href="https://github.com/HesthaNeo/project-kickoff">Milestone 1: Project Kick:Off</li>
 
