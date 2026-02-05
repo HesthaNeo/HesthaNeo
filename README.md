@@ -1,5 +1,7 @@
 <h1>Robert's Porfolio <a href="https://linkedin.com/in/robertbrantley22">(IT Professional)</h1>
 
+<h2><u>Network Engineering Projects:</u></h2>
+
   <h2><u>Information Technology Projects:</u></h2>
 
   <h3><em>- osTicket (Help Desk Ticketing System)</em></h3>
