@@ -5,6 +5,7 @@
 <h3><em>- Full Stack Networking Project</em></h3>
 <ul>
 <li><a href="https://github.com/HesthaNeo/project-kickoff">Milestone 1: Project Kick:Off</li>
+<li><a href="https://github.com/HesthaNeo/hq-core-switching">Milestone 2: HQ Core Switching</li>
 
 <h2><u>Information Technology Projects:</u></h2>
 
