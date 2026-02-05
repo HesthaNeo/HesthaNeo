@@ -2,6 +2,8 @@
 
 <h2><u>Network Engineering Projects:</u></h2>
 
+<h3><em>- Full Stack Networking Project</em></h3>
+
   <h2><u>Information Technology Projects:</u></h2>
 
   <h3><em>- osTicket (Help Desk Ticketing System)</em></h3>
