@@ -9,6 +9,7 @@
 <li><a href="https://github.com/HesthaNeo/hq-access-switching">Milestone 3: HQ Access Switching</li>
 <li><a href="https://github.com/HesthaNeo/hq-internet-router">Milestone 4: HQ Internet Router</li>
 <li><a href="https://github.com/HesthaNeo/hq-wan-router">Milestone 5: HQ WAN Router</li>
+<li><a href="https://github.com/HesthaNeo/hq-voice-router">Milestone 6: HQ Voice Router</li>
 
 <h2><u>Information Technology Projects:</u></h2>
 
