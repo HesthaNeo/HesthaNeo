@@ -11,6 +11,7 @@
 <li><a href="https://github.com/HesthaNeo/hq-wan-router">Milestone 5: HQ WAN Router</li>
 <li><a href="https://github.com/HesthaNeo/hq-voice-router">Milestone 6: HQ Voice Router</li>
 <li><a href="https://github.com/HesthaNeo/hq-phones-hosts">Milestone 7: HQ Phones & Hosts</li>
+<li><a href="https://github.com/HesthaNeo/hq-wireless">Milestone 8: HQ Wireless</li>
 
 <h2><u>Information Technology Projects:</u></h2>
 
