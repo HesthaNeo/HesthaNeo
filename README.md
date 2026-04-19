@@ -15,6 +15,7 @@
 <li><a href="https://github.com/HesthaNeo/branch1-route-switch">Milestone 9: Branch 1 Route/Switch</li>
 <li><a href="https://github.com/HesthaNeo/branch1-phones-host-wireless">Milestone 10: Branch 1 Phones, Hosts and Wireless</li>
 <li><a href="https://github.com/HesthaNeo/branch2-route-switch">Milestone 11: Branch 2 Route/Switch</li>
+<li><a href="https://github.com/HesthaNeo/branch2-phones-host">Milestone 12: Branch 2 Phones & Hosts</li>
 
 <h2><u>Information Technology Projects:</u></h2>
 
